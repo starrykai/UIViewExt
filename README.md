@@ -1,5 +1,3 @@
-UIViewExt
-
 ##UIView扩展 
 ####直接获取view的方位属性
 ```  
